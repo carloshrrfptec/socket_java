@@ -1,0 +1,5 @@
+-Dfile.encoding=Cp1252
+-classpath
+"D:\\@FACULDADE\\[TESTE]_Chat_Multhread\\bin"
+-XX:+ShowCodeDetailsInExceptionMessages
+br.com.promove.chat.Cliente
